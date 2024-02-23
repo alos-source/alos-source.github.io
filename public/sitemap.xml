@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>alos-source.github.io/tags/example/</loc>
+    <loc>/tags/example/</loc>
     <lastmod>2024-02-09T16:31:02+01:00</lastmod>
   </url><url>
-    <loc>alos-source.github.io/tags/helloworld/</loc>
+    <loc>/tags/helloworld/</loc>
     <lastmod>2024-02-09T16:31:02+01:00</lastmod>
   </url><url>
-    <loc>alos-source.github.io/posts/my-first-post/</loc>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2024-02-09T16:31:02+01:00</lastmod>
   </url><url>
-    <loc>alos-source.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2024-02-09T16:31:02+01:00</lastmod>
   </url><url>
-    <loc>alos-source.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-02-09T16:31:02+01:00</lastmod>
   </url><url>
-    <loc>alos-source.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-02-09T16:31:02+01:00</lastmod>
   </url><url>
-    <loc>alos-source.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>
