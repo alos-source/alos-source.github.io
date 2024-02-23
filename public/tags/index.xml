@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My Website</title>
-    <link>/tags/</link>
+    <link>https://alos-source.github.io/tags/</link>
     <description>Recent content in Tags on My Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Alexander O.)</managingEditor>
     <webMaster>youremail@domain.com (Alexander O.)</webMaster>
-    <lastBuildDate>Fri, 09 Feb 2024 16:31:02 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Feb 2024 16:31:02 +0100</lastBuildDate><atom:link href="https://alos-source.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>example</title>
-      <link>/tags/example/</link>
+      <link>https://alos-source.github.io/tags/example/</link>
       <pubDate>Fri, 09 Feb 2024 16:31:02 +0100</pubDate>
       <author>youremail@domain.com (Alexander O.)</author>
-      <guid>/tags/example/</guid>
+      <guid>https://alos-source.github.io/tags/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>helloworld</title>
-      <link>/tags/helloworld/</link>
+      <link>https://alos-source.github.io/tags/helloworld/</link>
       <pubDate>Fri, 09 Feb 2024 16:31:02 +0100</pubDate>
       <author>youremail@domain.com (Alexander O.)</author>
-      <guid>/tags/helloworld/</guid>
+      <guid>https://alos-source.github.io/tags/helloworld/</guid>
       <description></description>
     </item>
     
