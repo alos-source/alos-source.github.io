@@ -1,4 +1,4 @@
-baseurl = "https://alos-source.github.io/"
+baseurl = ""
 DefaultContentLanguage = "en"
 title = "My Website"
 # Using theme as git submodule 
