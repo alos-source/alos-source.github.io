@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>helloworld on My Website</title>
+    <link>alos-source.github.io/tags/helloworld/</link>
+    <description>Recent content in helloworld on My Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Alexander O.)</managingEditor>
+    <webMaster>youremail@domain.com (Alexander O.)</webMaster>
+    <lastBuildDate>Fri, 09 Feb 2024 16:31:02 +0100</lastBuildDate><atom:link href="alos-source.github.io/tags/helloworld/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>alos-source.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 09 Feb 2024 16:31:02 +0100</pubDate>
+      <author>youremail@domain.com (Alexander O.)</author>
+      <guid>alos-source.github.io/posts/my-first-post/</guid>
+      <description>my First Post this is my first post.</description>
+    </item>
+    
+  </channel>
+</rss>
