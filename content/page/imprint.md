@@ -15,7 +15,7 @@ Anton-Bruckner-Stra&szlig;e 32<br />
 91052 Erlangen</p>
 
 <h2>Kontakt</h2>
-<p>Telefon: 017630321602<br />
+<p>Telefon: ??????<br />
 E-Mail: alos-impressum@mailbox.org</p>
 
 <h2>Redaktionell verantwortlich</h2>

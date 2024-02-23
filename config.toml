@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "/"
 DefaultContentLanguage = "en"
 title = "My Website"
 # Using theme as git submodule 
