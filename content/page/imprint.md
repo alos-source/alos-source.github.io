@@ -1,7 +1,7 @@
 ---
 title: "Imprint"
 date: 2024-02-11T20:51:37+01:00
-draft: false
+draft: true
 ---
 # Imprint
 For any questions, contact me via mail: [alos-impressum@mailbox.org](mailto:alos-impressum@mailbox.org).
